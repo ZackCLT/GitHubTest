@@ -25,11 +25,11 @@
         • Show badge with checking site_admin
         • Show number of items
         • Paginated -> start with since = 0 and page size = 20
-        ![](website/ui_user_list.png)
+![](website/ui_user_list.png)
 
     - The Detail Dialog UI
         • Show close icon
         • Show avatar with avatar_url
         • Show name, bio, login, site_admin, location and blog
-        ![](website/ui_user_detail.png)
+![](website/ui_user_detail.png)
 
